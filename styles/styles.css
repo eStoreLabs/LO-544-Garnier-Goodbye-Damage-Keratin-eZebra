@@ -175,7 +175,7 @@ body {
   #es-garnier.es-garnier .es-kv__left--photoCtn {
     position: absolute;
     top: 0;
-    width: 60%;
+    width: 59%;
     z-index: 1;
   }
 
@@ -284,7 +284,6 @@ body {
 @media (min-width: 990px) {
   #es-garnier.es-garnier .es-kv__left--photoCtn {
     left: 15px;
-    width: 70%;
   }
 
   #es-garnier.es-garnier .es-kv__textCtn::after {
